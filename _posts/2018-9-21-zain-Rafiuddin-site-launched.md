@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zain rafiuddin ,launches website"
+title: "zain Rafiuddin ,launches website"
 date: 2018-9-21
 ---
 
