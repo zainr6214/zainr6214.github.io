@@ -4,10 +4,9 @@ title: "zain rafiuddin ,launches website"
 date: 2018-9-21
 ---
                 #1
-  this week i finaly got most of my web page working. 
-it was finished realy late but iam still glad i made
-some progress on it.
-
+    this week i finaly got most of my web page working. 
+   it was finished realy late but iam still glad i made
+   some progress on it.
      other than the web page i havent really struggled
   with anything and i hpoe that continues. we also were
   told that we would be starting a new project .mr allata
