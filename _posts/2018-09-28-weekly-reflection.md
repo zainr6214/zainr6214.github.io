@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "zain rafiuddin ,launches website"
-date: 2018-09-28
+  layout: post
+  title: "zain rafiuddin ,launches website"
+  date: 2018-09-28
 ---
 
 the class rom this week was pretty ok.
