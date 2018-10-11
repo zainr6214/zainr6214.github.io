@@ -18,3 +18,4 @@ date: 2018-10-11
     we also refreshed our knowlage on cornell notes and how there is a detail section 
     and the summary section. while i think it is usefull for note taking it takes a
     while to set up
+(circle 50 "solid" "blue")
