@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zain rafiuddin ,launches website"
+title: "zain rafiuddin "
 date: 2018-10-5
 ---
  This week we learned about functions and values. Functions and values allow
