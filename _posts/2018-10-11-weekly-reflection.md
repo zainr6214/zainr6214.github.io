@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zain rafiuddin ,launches website"
+title: "zain rafiuddin ,next blog"
 date: 2018-10-11
 ---
             learning blog 
