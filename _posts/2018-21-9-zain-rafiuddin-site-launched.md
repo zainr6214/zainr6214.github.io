@@ -18,7 +18,6 @@ date: 2018-9-21
     get to write it on time. this week we learned more about 
     tags and what they mean.each tag is an abreveation and
     makes the computer do different things.
-    
     i struggled with remembering what each tag means and even 
     though writing it down helps i cant write very fast the new 
     website w3schools actualy has an arvchive of tags and there
