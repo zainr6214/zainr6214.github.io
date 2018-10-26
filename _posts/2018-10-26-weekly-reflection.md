@@ -19,11 +19,17 @@ date: 2018-10-26
       and 2.The two functions in the equation are the multiplication symbol and the minus
       symbol a function basically the activity that the values are given.\
  
-     Circles of evaluation is a process that allows us to translate expressions into something that 
-a computer can easily read.It does this by putting all the values and functions in to different places
-so that it can be rewritten . An example would be the expression  6*(7-2) , with circles of evaluation
-each parenthesis is  in its own circle and the and the functions are separated in the circle and when 
-the translation is finished the expression 6*(7-2)  will be (*6(-7 2)) which is something that a computer can read  
+     Circles of evaluation is a process that allows us to translate expressions into
+     something that 
+     a computer can easily read.It does this by putting all
+     the values and functions in to different places
+     so that it can be rewritten . An example would be the
+     expression  6*(7-2) , with circles of evaluation
+     each parenthesis is  in its own circle and the and the 
+     functions are separated in the circle and when 
+     the translation is finished the expression 6*(7-2) 
+     will be (*6(-7 2)) which is something that a computer 
+     can read  
 
    To expand on how circles of operations work we have to look at another core concept which is called 
    orders of operation. This concept  is does not only help translate an expression by telling us which
