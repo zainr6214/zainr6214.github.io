@@ -30,10 +30,9 @@ date: 2018-10-26
      the translation is finished the expression 6*(7-2) 
      will be (*6(-7 2)) which is something that a computer 
      can read  
-
-   To expand on how circles of operations work we have to look at another core concept which is called 
-   orders of operation. This concept  is does not only help translate an expression by telling us which
-   order they are sorted in ,it is also the order that a computer would read anything that it is given.
+     To expand on how circles of operations work we have to look at another core concept which is called 
+     orders of operation. This concept  is does not only help translate an expression by telling us which
+     order they are sorted in ,it is also the order that a computer would read anything that it is given.
    
     The next core concept that we learned was contracts and how they worked. A contract with a computer 
     meant that it would only take specific information in the correct pattern and if it could be read then
