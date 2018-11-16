@@ -4,9 +4,11 @@
   date: 2018-11-16
 ---
  This weeks blog reflection i will talk about how to design a function
+ contract example
  
-contract example
+ 
  ```;gt:number--->image```
+ 
  
  That contract is a discription of a function and it can apply to many
  
