@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: "zain rafiuddin ,launches website"
+  title: "zain rafiuddin ,blog post"
   date: 2018-11-16
 ---
  This weeks blog reflection i will talk about how to design a function
