@@ -7,7 +7,7 @@
  contract example
  
  
- ```;gt:number--->image```
+ ```;gs:number--->image```
  
  
  That contract is a discription of a function and it can apply to many
@@ -16,11 +16,11 @@
  
  functions that could fit the disctriptions for example telling the computer
  
- (example(triangle 100 "solid" "green")) as well as several other green solid
+ (example(square 100 "solid" "green")) as well as several other green solid
  
- trianlges of various sizes then you simply tell the computer gt and the size
+ squares of various sizes then you simply tell the computer gt and the size
  
- you want the triangle to be. A defintion can take this even further becuase if
+ you want the square to be. A defintion can take this even further becuase if
  
  you define a specific example that you consider big as big gt when you type that
  
