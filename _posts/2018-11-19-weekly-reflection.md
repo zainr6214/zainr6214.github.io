@@ -6,7 +6,7 @@ date: 2018-11-19
 
 
                    
-                       ![rockps](/images/rockps.png)
+![rockps](/images/rockps.png)
 
             
  This image is the screen shot for my game project its called rock paper scissors
