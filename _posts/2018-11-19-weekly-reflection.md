@@ -3,13 +3,11 @@ layout: post
 title: "zain rafiuddin ,screen shot"
 date: 2018-11-19
 ---
-
-
                    
 ![rockps](/images/rockps.png)
 
             
- This image is the screen shot for my game project its called rock paper scissors
+This image is the screen shot for my game project its called rock paper scissors
 
 I created this screen shot by using the url of images found on google and putting 
 
