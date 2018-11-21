@@ -3,7 +3,7 @@ layout: post
 title: "zain rafiuddin ,next blog"
 date: 2018-11-2
 ---
-            learning blog 7
+learning blog 7
              
              This is my 7th learning blog and thius week in my computer science class my learnign was centered around 
              
