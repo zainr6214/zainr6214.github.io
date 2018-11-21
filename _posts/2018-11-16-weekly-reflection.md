@@ -1,7 +1,7 @@
 ---
-  layout: post
-  title: "zain rafiuddin ,"
-  date: 2018-11-16
+layout: post
+title: "zain rafiuddin ,"
+date: 2018-11-16
 ---
  This weeks blog reflection i will talk about how to design a function
  contract example
