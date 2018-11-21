@@ -1,10 +1,10 @@
-
 ---
 layout: post
 title: "zain rafiuddin ,next blog"
 date: 2018-11-9
 ---
-            learning blog 
+
+learning blog 
 This week is all about undertanding functions and how examples 
 
 and contracts help us under stand functions. A function is an 
