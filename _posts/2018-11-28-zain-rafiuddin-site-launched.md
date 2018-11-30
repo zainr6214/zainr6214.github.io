@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "zain rafiuddin ,screen shot"
+title: "zain rafiuddin ,mid term"
 date: 2018-11-28
 ---
 
