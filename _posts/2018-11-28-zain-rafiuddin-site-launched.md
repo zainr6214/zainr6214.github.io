@@ -6,7 +6,7 @@ date: 2018-11-28
 
 Mid term question review
 
-The question number that i di would be number 20 and 
+The question number that i am reviewing would be number 20 and 
 
 Some more information on this question was that 56 percent
 
