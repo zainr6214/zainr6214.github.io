@@ -6,6 +6,21 @@ date: 2018-11-28
 
 Mid term question review
 
+Some more information on this question was that 56
+
+percent of everyone who took this answere chose moon weight and got the 
+
+correect answer. This tells me that a majoraty knew the answer and that
+
+the question was not that difficult.About 23 percent of people chose earth
+
+weight being the second highest choice.I believe that this question is a novis level question 
+
+becuase all we had to do was name the data given and we made no contract of our own .
+
+
+(this part is not as important)
+
 
 The mid term question that i chose to review is question 13 version 2 but on 
 
@@ -29,14 +44,4 @@ This question helped me understand that defintions that dont have anything to do
  
 with the data or value dont make sense and finally it made me understand the value
 
-of reading a question carfully. Some more information on this question was that 56
-
-percent of everyone who took this answere chose moon weight and got the correect 
-
-answer. This tells me that a majoraty knew the answer and that the question was not that 
-
-difficult.About 23 percent of people chose earth weight being the second highest choice.I
-
-believe that this question is a novis level question becuase all we had to do was name the 
-
-data given and we made no contract of our own .
+of reading a question carfully. 
