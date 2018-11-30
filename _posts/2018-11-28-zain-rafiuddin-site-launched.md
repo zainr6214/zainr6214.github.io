@@ -7,13 +7,13 @@ date: 2018-11-28
 Mid term question review
 
 
-The mid term question that i chose to review is question 13 version 2. On
+The mid term question that i chose to review is question 13 version 2 but on 
 
-this specific question they asked what would be an appropriate name for the 
+the original test booklet the number would be number 20 . On this specific question
 
-number data that would be divided by six becuase that would be their moon weight. 
+they asked what would be an appropriate name for the number data that would be 
 
-There were four anser choices wich 
+divided by six becuase that would be their moon weight. There were four anser choices wich 
 
 included earth-weight,moon-weight and two other options that could be crossed 
 
@@ -29,4 +29,14 @@ This question helped me understand that defintions that dont have anything to do
  
 with the data or value dont make sense and finally it made me understand the value
 
-of reading a question carfully.
+of reading a question carfully. Some more information on this question was that 56
+
+percent of everyone who took this answere chose moon weight and got the correect 
+
+answer. This tells me that a majoraty knew the answer and that the question was not that 
+
+difficult.About 23 percent of people chose earth weight being the second highest choice.I
+
+believe that this question is a novis level question becuase all we had to do was name the 
+
+data given and we made no contract of our own .
