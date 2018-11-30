@@ -10,7 +10,7 @@ The question number that i am reviewing would be number 20 and
 
 Some more information on this question was that 56 percent
 
-of everyone who took this answere chose moon weight and got the 
+of everyone who who answerd this question chose moon weight and got the 
 
 correect answer. This tells me that a majoraty knew the answer 
 
