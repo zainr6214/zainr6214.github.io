@@ -31,5 +31,4 @@ This weeks blog post is focused around our flag projects wich ar currently incom
 (put-image white-stripe3 50 143 basle3)```
 
 
-
-
+khgkjhg
