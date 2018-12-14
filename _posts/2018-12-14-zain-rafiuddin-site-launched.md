@@ -31,4 +31,7 @@ This weeks blog post is focused around our flag projects wich ar currently incom
 (put-image white-stripe3 50 143 basle3)
 ```
 
-jhgkjh
+This program while it does show the image of a greece flag it is not yet sclalable becuase i dont yet have a size defention for the program. When i define size i can make it so that all the measurments of the flag are multiplyed by the size including the hieght an width as well as the placement of the stripes. Some challanges that i faced would be that i rewrote information that i could have defined and made more simple. This led to simple mistakes being difficult to fix.A question i would have is how to controle placment of the flag stripes by scaleing it down.An oppertunity would be that mr allata showed parts of the flag that could be defined for example the stripes measurments were all iddentical so i could simply define it as a stripe instead of writing the whole function.
+
+This is the actual output that the program above gave me
+
