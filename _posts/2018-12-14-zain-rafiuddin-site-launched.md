@@ -28,7 +28,7 @@ This weeks blog post is focused around our flag projects wich ar currently incom
 
 (define white-stripe3 (rectangle 22 110 "solid" "white"))
 
-(put-image white-stripe3 50 143 basle3)```
+(put-image white-stripe3 50 143 basle3)
+```
 
-
-khgkjhg
+jhgkjh
