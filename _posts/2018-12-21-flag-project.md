@@ -3,15 +3,14 @@
 layout: post
 title: "Flag Project - Final Submission"
 date: 2018-12-21
-
 ---
 
 ## Flag of greece by Zain R
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+-  The country flag that i did was the flag of greece
+-  I believe that this flag project deserves a grade of 2
 
 <!--- Delete this comment and add your writing -->
 
