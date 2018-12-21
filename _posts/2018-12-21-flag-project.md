@@ -16,7 +16,7 @@ date: 2018-12-21
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
+-   
 
 * * *
 ![g](/images/g.png)
@@ -24,14 +24,14 @@ date: 2018-12-21
 
 ## Describe your process.
 
-- some questions that i had would be how to find a common factor for every number that was in the flag in order to make the scaling of the flag work as well as if that was necessary. A piece of information that a class mate gave me was to create a size defintion and to multiply the numbers by it.The teacher also gave me a work sheet with an ex
+- some questions that i had would be how to find a common factor for every number that was in the flag in order to make the scaling of the flag work as well as if that was necessary. A piece of information that a class mate gave me was to create a size defintion and to multiply the numbers by it.The teacher also gave me a work sheet with an example of a flag and it included how to mutiply the locations of a shape on flag by the size.
 <!--- Delete this comment and add your writing -->
 
 
 ## Explain your code.
 
 
--The first 5 lines are all definitions for the width,hieght,size,ad the measurments for the white stripes that will be used for the flag of greece.The nest 5 lines would be puting most of the flag together in the correct positon an all of the numbers that are usedin this program for either its measuments or location of the flag are all multiplied by the size defintion
+-The first 5 lines are all definitions for the width,hieght,size,ad the measurments for the white stripes that will be used for the flag of greece.The nest 5 lines would be puting most of the flag together in the correct positon an all of the numbers that are usedin this program for either its measuments or location of the flag are all multiplied by the size defintion 
 -  each of these lines of code function indipendantly by either giving a measurment that can be used or creating a specific a specific shape of the flag of greece. 
 * * *
 
