@@ -19,7 +19,7 @@ date: 2018-12-21
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![WeScheme](/images/6.png)
+![g](/images/g.png)
 * * *
 
 ## Describe your process.
